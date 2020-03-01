@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "message": "Torreon Coahuila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.41018676757812,
+          25.543061005514986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "message": "Gómez Palacio Coahuila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.49996566772461,
+          25.570781936234916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "message": "Matamoros Coahuila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.22547912597656,
+          25.541202389740473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "message": "Guadalajara Jalisco, Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.34598541259766,
+          20.67743858259418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "message": "Monterrey Nuevo Leon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.31547546386719,
+          25.680518515592485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "message": "DF Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.13375854492186,
+          19.44328437042322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "message": "Puebla Puebla Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.20541381835938,
+          19.0543297806049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "message": "Zacatecas Mexico "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.919921875,
+          23.543845136505844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "message": "Ciudad Victoria Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.33837890625,
+          23.815500848699656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "message": "Sonora Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.302734375,
+          30.107117887092357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "message": "Chihuahua Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.25976562499999,
+          29.49698759653577
+        ]
+      }
+    }
+  ]
+}
